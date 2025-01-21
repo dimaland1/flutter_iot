@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658561571004",
+    "project_id": "iot-f048e",
+    "storage_bucket": "iot-f048e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658561571004:android:7c11f1d8d127ed4c3498b9",
+        "android_client_info": {
+          "package_name": "com.example.ttgo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxrWbVXaJWdivduv0E0qRrrJ6Ho7Wpaus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
